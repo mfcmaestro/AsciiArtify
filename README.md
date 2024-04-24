@@ -1,2 +1,0 @@
-# AsciiArtify
-AsciiArtify POC
